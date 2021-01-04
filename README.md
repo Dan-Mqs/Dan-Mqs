@@ -9,7 +9,7 @@ I've been dedicating into practicing HTML, CSS and JavaScript, looking forward i
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Web. Meu objetivo é tornar-me um especialista em front-end.
 
-Tenho me dedicado a praticar HTML, CSS e Javascript, e tenho interesse em aprenderframeworks/bibliotecas tais como React, Vue.js, Bootstrap, Tailwind.css, etc.
+Tenho me dedicado a praticar HTML, CSS e Javascript, e tenho interesse em aprender frameworks/bibliotecas tais como React, Vue.js, Bootstrap, Tailwind.css, etc.
 
 #### dev.danielmarques@outlook.com
 #### [LinkedIn page](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
