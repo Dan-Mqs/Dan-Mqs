@@ -12,7 +12,7 @@ Sou um estudante de Análise e Desenvolvimento de Sistemas, focando em desenvolv
 Tenho me dedicado a praticar HTML, CSS e Javascript, e tenho interesse em aprender frameworks/bibliotecas tais como React, Vue.js, Bootstrap, Tailwind.css, etc.
 
 #### dev.danielmarques@outlook.com
-#### [LinkedIn page](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
+#### [LinkedIn](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
 <!--
 **Dan-Mqs/Dan-Mqs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
