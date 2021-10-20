@@ -2,16 +2,16 @@
 
 ### About me
 
-I'm a Software Development Student, focused on Web development. My goal is to become a front-end specialist. 
+I'm a Software Development Student, focusing on Web development. My goal is to become a front-end specialist. 
 
-I've been dedicating into practicing HTML, CSS and JavaScript, looking forward into learning frameworks/libraries such as React, Vue.js, Bootstrap, Tailwind.css, Flutter, etc.
+I've been dedicating into learning and practicing Javascript with React, Next and Node. Also looking forward to learn Vue, Django, Flutter, and always open to discover a new interesting technology. 
 
 
 ### [PT-BR] Sobre mim
 
 Sou um estudante de Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Web. Meu objetivo é tornar-me um especialista em front-end.
 
-Tenho me dedicado a praticar HTML, CSS e Javascript, e tenho interesse em aprender frameworks/bibliotecas tais como React, Vue.js, Bootstrap, Tailwind.css, Flutter, etc.
+Tenho me dedicado a aprender e praticar Javascript com React, Next e Node. Também tenho vontade de aprender Vue, Django, Flutter, sempre aberto à descoberta de uma nova tecnologia interessante.
 
 #### dev.danielmarques@outlook.com
 #### [LinkedIn](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
