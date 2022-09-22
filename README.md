@@ -7,11 +7,6 @@ I'm a Software Development Student, focusing on Web development. My goal is to b
 I've been dedicating into learning and practicing Javascript with React, Next and Node. Also looking forward to learn Vue, Django, Flutter, and always open to discover a new interesting technology. 
 
 
-### [PT-BR] Sobre mim
-
-Sou um estudante de Análise e Desenvolvimento de Sistemas, focando em desenvolvimento Web. Meu objetivo é tornar-me um especialista em front-end.
-
-Tenho me dedicado a aprender e praticar Javascript com React, Next e Node. Também tenho vontade de aprender Vue, Django, Flutter, sempre aberto à descoberta de uma nova tecnologia interessante.
 
 #### dev.danielmarques@outlook.com
 #### [LinkedIn](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
