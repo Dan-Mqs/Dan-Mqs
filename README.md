@@ -2,12 +2,19 @@
 
 ### About me
 
-I'm a Software Development Student, focusing on Web development. My goal is to become a front-end specialist. 
+Software Developer based in Brazil.
 
-I've been dedicating into learning and practicing Javascript with React, Next and Node. Also looking forward to learn Vue, Django, Flutter, and always open to discover a new interesting technology. 
+I'm mostly focused in front-end technologies, but I'm also able to work my way in back-end too.
+
+I've got knowledge in programming languages such as Javascript, Python and Java, and technologies such as React, Next and Django, always willing to learn some more.
+
+Having a design background means that I also enjoy dealing with UI & UX aspects, and have a decent grasp in some design techniques as well as putting them into CSS (i.e.: CSS isn't a pain to me)
+
+Coming up with solutions to some issues might be challenging, but the feeling of solving such puzzles and seeing everything work is indescribable – and that is what fuels me.
 
 
 
+Get in touch!
 #### dev.danielmarques@outlook.com
 #### [LinkedIn](https://www.linkedin.com/in/dan-mqs/ "Daniel Marques on LinkedIn")
 <!--
