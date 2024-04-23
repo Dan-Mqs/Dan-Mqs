@@ -8,7 +8,7 @@ I'm mostly focused in front-end technologies, but I'm also able to work my way i
 
 I've got knowledge in programming languages such as Javascript, Python and Java, and technologies such as React, Next and Django, always willing to learn some more.
 
-Having a design background means that I also enjoy dealing with UI & UX aspects, and have a decent grasp in some design techniques as well as putting them into CSS (i.e.: CSS isn't a pain to me)
+Having a design background means that I also enjoy dealing with UI & UX aspects, and have a decent grasp in some design techniques as well as putting them into CSS (i.e.: CSS isn't always a pain to me)
 
 Coming up with solutions to some issues might be challenging, but the feeling of solving such puzzles and seeing everything work is indescribable – and that is what fuels me.
 
