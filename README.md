@@ -10,7 +10,7 @@ I've got knowledge in programming languages such as Javascript, Python and Java,
 
 Having a design background means that I also enjoy dealing with UI & UX aspects, and have a decent grasp in some design techniques as well as putting them into CSS (i.e.: CSS isn't always a pain to me)
 
-Coming up with solutions to some issues might be challenging, but the feeling of solving such puzzles and seeing everything work is indescribable – and that is what fuels me.
+Coming up with solutions to some issues might be challenging, but the feeling of solving such puzzles and seeing everything work is truly amazing – and that is what fuels me.
 
 
 
